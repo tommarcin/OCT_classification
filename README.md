@@ -6,6 +6,8 @@ from the user’s files or an image acquired using the photo-taking function. Th
 **Authors:** Nina Budna, Róża Chwałek and Marcin Dziedzic
 **Supervision:** Agnieszka Stankiewicz, Tomasz Marciniak
 
+<img src="OCT_Classifier.png" height=50 />
+
 ![Photo](OCT_Classifier.png){height=30%}
 
 # How to use
