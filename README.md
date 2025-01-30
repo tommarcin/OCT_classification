@@ -2,5 +2,6 @@
 
 How to use
 
+Version
 
 Cite as
